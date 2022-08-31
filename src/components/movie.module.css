@@ -1,0 +1,13 @@
+.movie {
+  background-color: rgb(16, 68, 101);
+  padding: 1rem;
+  list-style: none;
+  margin-top: 1rem;
+  color: aliceblue;
+  display: grid;
+  place-items: center;
+}
+
+.movie h2 {
+  color: rgb(255, 31, 106);
+}
